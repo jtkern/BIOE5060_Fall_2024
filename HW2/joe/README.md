@@ -15,4 +15,6 @@ Theme: Sweet - New Flavor - <br>
 
 Desktop Background: Cosmos Milky Way <br>
   https://pixabay.com/photos/cosmos-milky-way-night-sky-stars-1853491/ <br>
-  CC0 License
+  CC0 License<br>
+
+I also modified the panels to include standard tools like the CPU usage rate and easier access to the file browser.
